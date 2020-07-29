@@ -1,1 +1,2 @@
 Cold and dry, but everything is my favorite color
+´bash git clone https://github.com/Cesaremtz/planets.git/ ~/desktop/Cesaremtz-planets´ #para clonar un repositorio copialo en la terminal
